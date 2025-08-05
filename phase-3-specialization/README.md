@@ -20,6 +20,17 @@ Innovation in seemingly disparate deep tech fields relies on the same converged 
 
 The key to polymathic innovation is mastering the foundational toolkit so deeply that you can recognize the same underlying mathematical and physical patterns manifesting in different substrates - whether silicon, cells, or quantum states.
 
+## Core Textbook Library for Phase III
+
+| Track | Primary Textbook | Role in Curriculum |
+|-------|------------------|---------------------|
+| **A: AI & ML** | Artificial Intelligence: A Modern Approach by Russell & Norvig | Most comprehensive, unified overview of entire AI field, from search to machine learning to robotics |
+| **A: Machine Learning** | Pattern Recognition and Machine Learning by Christopher Bishop | Deep, principled, Bayesian perspective on machine learning, essential for first-principles understanding |
+| **B: Biotechnology** | Molecular Biology of the Cell by Alberts et al. (Revisited) | Central reference, now viewed through engineering lens for manipulation and design |
+| **B: Neuroscience** | Principles of Neural Science by Kandel et al. | Canonical, comprehensive textbook covering from molecular to cognitive levels |
+| **C: Quantum Computing** | Quantum Computation and Quantum Information by Nielsen & Chuang | The "bible" of quantum computing, complete and rigorous introduction to entire field |
+| **C: Space Systems** | Space Mission Analysis and Design by Wertz & Larson | Standard, comprehensive reference for systems engineering approach to designing space missions |
+
 ## Specialization Tracks
 
 ### **[Track A: Intelligence & Autonomy](track-a-ai-robotics/)**

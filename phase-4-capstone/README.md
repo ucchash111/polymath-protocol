@@ -37,64 +37,31 @@ Innovation cannot be taught through traditional coursework. Instead, Phase IV pr
 
 Master the thinking patterns that enable breakthrough innovation:
 
-**7.1.1 First-Principles Thinking**
-- Deconstructing problems to fundamental truths
-- Challenging assumptions and conventional wisdom
-- Building solutions from the ground up
-- Case studies: SpaceX rockets, Tesla batteries, CRISPR
+**7.1 The Art of Multidisciplinary Problem Solving**
 
-**7.1.2 Systems Dynamics & Complexity**
-- Understanding emergent behavior in complex systems
-- Feedback loops and unintended consequences
-- Network effects and tipping points
-- Modeling social, economic, and technological systems
+This module formalizes the problem-solving mindset that is the ultimate goal of this curriculum. It teaches how to think like a deep tech polymath:
 
-**7.1.3 Cross-Domain Pattern Recognition**
-- Identifying analogies between different fields
-- Transferring insights across disciplines
-- Biomimicry and nature-inspired innovation
-- Mathematical structures in diverse domains
-
-**7.1.4 Fermi Estimation & Order-of-Magnitude Thinking**
-- Rapidly assess feasibility of new ideas
-- Make decisions with incomplete information
-- Sanity-check complex calculations
-- Resource estimation for projects
+- **First-principles thinking** - Deconstructing problems to their fundamental truths
+- **Systems dynamics** - Modeling complex feedback loops
+- **Identifying and challenging axioms** in a given field
+- **Reasoning by analogy across disciplines** (e.g., applying concepts from control theory to genetic regulation)
+- **Order-of-magnitude estimation** ("Fermi problems") to quickly assess the feasibility of new ideas
 
 ### **[Module 7.2: From Theory to Venture](module-7.2-venture-creation/)**
 **Duration:** 3-6 months
 
 Learn to transform technical breakthroughs into viable products and organizations:
 
-**7.2.1 Technology Readiness & Development**
-- Technology Readiness Levels (TRLs) framework
-- From lab prototype to market-ready product
-- Development timelines and resource requirements
-- Risk assessment and mitigation strategies
+**7.2 From Theory to Venture**
 
-**7.2.2 Intellectual Property Strategy**
-- Patent landscape analysis and freedom to operate
-- Trade secrets vs. patents vs. open source
-- Licensing strategies and IP portfolio management
-- International IP considerations
+This module provides the strategic framework to connect a technical breakthrough to a viable product, company, or mission:
 
-**7.2.3 Design Thinking for Deep Tech**
-- User research for technical products
-- Minimum Viable Product (MVP) in deep tech context
-- Iterative development and customer feedback
-- Balancing technical excellence with market needs
-
-**7.2.4 Regulatory & Ethical Frameworks**
-- Navigating regulatory landscapes (FDA, FAA, FCC, etc.)
-- Safety and security considerations
-- Ethical implications of emerging technologies
-- Public engagement and social acceptance
-
-**7.2.5 Capital & Resource Allocation**
-- Funding landscape for deep tech ventures
-- Grant writing for research and development
-- Venture capital and investment strategies
-- Building and managing technical teams
+- **Technology readiness levels (TRLs)**
+- **Intellectual property strategy** (patents, trade secrets)
+- **Design thinking for complex technologies**
+- **Developing a minimum viable product (MVP)** in a deep tech context
+- **Navigating regulatory landscapes** (e.g., FDA for biotechnology, FAA for aerospace)
+- **Principles of capital allocation** for R&D-intensive projects
 
 ## Capstone Project Pathways
 

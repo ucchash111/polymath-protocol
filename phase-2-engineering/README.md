@@ -25,39 +25,42 @@ This phase emphasizes **hands-on projects** alongside rigorous theory, preparing
 ### [Module 4: Computation & Algorithms](module-4-computation/)
 **Duration:** 6-8 months
 
-Master the theoretical and practical foundations of computation:
-- **4.1** Programming Paradigms (C, Python, functional programming)
-- **4.2** Data Structures & Algorithms (efficiency, complexity analysis)
-- **4.3** Theory of Computation (automata, complexity, computability)
-- **4.4** Computer Systems (OS, networks, databases)
+Instill mastery of theoretical and practical foundations of computation, the engine of all modern technology:
+
+- **4.1** Programming Paradigms - Mastery of systems language (C), high-level language (Python), functional programming concepts, software construction principles (debugging, testing, Git, design patterns)
+- **4.2** Data Structures & Algorithms - Arrays, linked lists, stacks, queues, hash tables, trees, graphs, Big O notation, sorting/searching, graph traversal, dynamic programming, greedy algorithms  
+- **4.3** Theory of Computation - Automata theory, formal languages, Turing machines, halting problem, complexity classes P/NP, NP-completeness
+- **4.4** Computer Systems - Operating systems (processes, threads, memory management), networking (TCP/IP, routing), databases (relational models, SQL, transactions)
 
 ### [Module 5: Electronics & Systems](module-5-electronics/)
 **Duration:** 6-8 months
 
-Bridge algorithms and physical implementation:
-- **5.1** Circuits & Electronics (analog/digital circuit design)
-- **5.2** Signals & Systems (information processing, filtering)  
-- **5.3** Computer Architecture (how computers actually work)
+Bridge the gap between abstract algorithms and physical world of electrons, explaining how computation is physically realized:
+
+- **5.1** Circuits & Electronics - Linear circuit analysis (Kirchhoff's laws), RLC circuits, diodes, transistors (BJT/FET), op-amps, analog/digital circuit design
+- **5.2** Signals & Systems - Continuous/discrete-time signals, LTI systems, convolution, Fourier series/transforms, Laplace/Z-transforms, filtering and modulation
+- **5.3** Computer Architecture - Instruction set architectures (RISC-V focus), datapath/control logic, pipelining, memory hierarchy, caches, multicore architecture
 
 ### [Module 6: Physical & Systems Engineering](module-6-physical-systems/)
 **Duration:** 6-8 months
 
-Design and optimize physical systems:
-- **6.1** Engineering Thermodynamics (energy systems design)
-- **6.2** Materials Science & Engineering (structure-property relationships)
-- **6.3** Systems Engineering (managing complex projects)
+Focus on principles of designing and analyzing systems in physical world, emphasizing energy, materials, and holistic integration:
 
-## Key Textbook Library
+- **6.1** Engineering Thermodynamics - First/Second Laws applied to control volumes, vapor/gas power systems (Rankine/Brayton cycles), refrigeration, combustion analysis
+- **6.2** Materials Science & Engineering - Processing-structure-properties-performance paradigm, crystal structures, phase diagrams, mechanical properties, metals/ceramics/polymers/composites
+- **6.3** Systems Engineering - Life cycle process, needs identification, requirements, functional analysis, design synthesis, integration, verification/validation, system modeling
 
-| Module | Primary Textbook | Secondary Textbook | Role |
-|--------|------------------|-------------------|------|
-| **4.1 Data Structures** | The Algorithm Design Manual (Skiena) | Introduction to Algorithms (CLRS) | Skiena: practical problem-solving. CLRS: rigorous theoretical analysis |
-| **4.2 Computer Architecture** | Computer Systems: A Programmer's Perspective (CS:APP) | Computer Architecture: A Quantitative Approach (H&P) | CS:APP: software perspective. H&P: quantitative design approach |
-| **5.1 Circuits** | The Art of Electronics (Horowitz & Hill) | Foundations of Analog and Digital Circuits (Agarwal & Lang) | H&H: practical circuit building. A&L: unified theoretical treatment |
-| **5.2 Signals** | Signals and Systems (Oppenheim & Willsky) | N/A | Definitive comprehensive treatment of signal processing |
-| **6.1 Thermodynamics** | Engineering Thermodynamics (Moran & Shapiro) | N/A | Standard application-oriented approach building on physics foundation |
-| **6.2 Materials** | Materials Science and Engineering (Callister & Rethwisch) | N/A | Classic process-structure-properties-performance paradigm |
-| **6.3 Systems** | Systems Engineering and Analysis (Blanchard & Fabrycky) | N/A | Formal systems engineering life-cycle methodology |
+## Core Textbook Library for Phase II
+
+| Module | Primary Textbook (Application & Intuition) | Secondary Textbook (Theory & Rigor) | Role in Curriculum |
+|--------|---------------------------------------------|--------------------------------------|---------------------|
+| **4.1 Data Structures & Algorithms** | The Algorithm Design Manual by Steven S. Skiena | Introduction to Algorithms by Cormen, Leiserson, Rivest, Stein (CLRS) | Skiena: practical, problem-oriented guide to implementation. CLRS: comprehensive, rigorous theoretical analysis of algorithms and data structures |
+| **4.2 Computer Architecture** | Computer Systems: A Programmer's Perspective by Bryant & O'Hallaron | Computer Architecture: A Quantitative Approach by Hennessy & Patterson | CS:APP: builds understanding from software perspective up. H&P: rigorous, quantitative approach to high-performance architecture design |
+| **5.1 Circuits & Electronics** | The Art of Electronics by Horowitz & Hill | Foundations of Analog and Digital Electronic Circuits by Agarwal & Lang | Horowitz & Hill: legendary practical guide for building real-world circuits. Agarwal & Lang: formal, unified treatment from systems perspective |
+| **5.2 Signals & Systems** | Signals and Systems by Oppenheim & Willsky | N/A | Definitive text offering comprehensive and unified treatment of both continuous and discrete-time signals and systems |
+| **6.1 Engineering Thermodynamics** | Fundamentals of Engineering Thermodynamics by Moran, Shapiro, et al. | N/A | Standard, comprehensive, application-oriented text building upon theoretical foundation from physics module |
+| **6.2 Materials Science** | Materials Science and Engineering: An Introduction by Callister & Rethwisch | N/A | Classic introductory text covering crucial process-structure-properties-performance paradigm for all major materials classes |
+| **6.3 Systems Engineering** | Systems Engineering and Analysis by Blanchard & Fabrycky | N/A | Standard text for formal introduction to principles and life-cycle management of complex engineering systems |
 
 ## Learning Pathways
 

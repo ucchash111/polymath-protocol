@@ -45,87 +45,41 @@ Understanding these systems from first principles positions you to shape this tr
 
 Master the core toolkit for creating intelligent systems:
 
-**A.1.1 Foundations of AI**
-- Search algorithms (BFS, DFS, A*, minimax)
-- Knowledge representation and reasoning
+**A.1.1 Artificial Intelligence & Machine Learning**
+Core toolkit for creating systems that can learn from data and make intelligent decisions:
+- Search algorithms (uninformed, informed, adversarial)
 - Constraint satisfaction problems
-- Logical agents and inference
-
-**A.1.2 Machine Learning Fundamentals**  
-- Supervised learning (regression, classification)
-- Unsupervised learning (clustering, dimensionally reduction)
-- Model evaluation and validation
-- Bias-variance tradeoff
-
-**A.1.3 Probabilistic Reasoning**
-- Bayesian networks and graphical models
-- Hidden Markov Models
-- Kalman filters
-- Particle filters
-
-**A.1.4 Reinforcement Learning**
-- Markov Decision Processes
-- Q-learning and policy gradient methods
-- Multi-armed bandits
-- Game theory and multi-agent systems
+- Logical agents
+- Probabilistic reasoning (Bayesian networks)
+- Supervised learning (linear/logistic regression, SVMs, decision trees)
+- Unsupervised learning (clustering, dimensionality reduction)
+- Reinforcement learning
 
 ### **[Module A.2: Deep Learning & Modern AI](module-a2-deep-learning/)**  
 **Duration:** 4-6 months
 
 Dive deep into the neural networks revolutionizing AI:
 
-**A.2.1 Neural Network Foundations**
-- Perceptrons and multilayer networks
-- Backpropagation algorithm
-- Activation functions and architectures
-- Regularization and optimization
-
-**A.2.2 Convolutional Neural Networks**
-- Computer vision fundamentals
-- CNN architectures (LeNet, AlexNet, ResNet, Vision Transformers)
-- Object detection and segmentation
-- Image generation and style transfer
-
-**A.2.3 Sequence Models**
-- Recurrent Neural Networks (RNNs, LSTMs, GRUs)  
-- Attention mechanisms and Transformers
-- Large Language Models (GPT, BERT, T5)
-- Natural language processing applications
-
-**A.2.4 Advanced Topics**
-- Generative Adversarial Networks (GANs)
-- Variational Autoencoders (VAEs)
-- Self-supervised learning
-- Few-shot and meta-learning
+**A.2.1 Deep Learning**
+State-of-the-art machine learning for perception and generation tasks:
+- Neural networks and backpropagation
+- Convolutional neural networks (CNNs) for computer vision
+- Recurrent neural networks (RNNs) for sequential data
+- Modern architectures like transformers
+- Deep generative models (GANs, VAEs)
 
 ### **[Module A.3: Robotics & Autonomous Systems](module-a3-robotics/)**
 **Duration:** 4-6 months  
 
 Apply AI to physical systems that interact with the world:
 
-**A.3.1 Robot Kinematics & Dynamics**
-- Forward and inverse kinematics
-- Jacobians and differential motion
-- Dynamics and control
-- Trajectory planning
-
-**A.3.2 Perception & Sensing**
-- Computer vision for robotics
-- LIDAR and point cloud processing
-- Sensor fusion and state estimation
-- SLAM (Simultaneous Localization and Mapping)
-
-**A.3.3 Motion Planning & Control**
-- Path planning algorithms (RRT, A*)
-- Feedback control systems
-- Model predictive control
-- Impedance and admittance control
-
-**A.3.4 Autonomous Systems Integration**
-- Autonomous vehicle architecture
-- Drone control and navigation  
-- Human-robot interaction
-- Safety and verification
+**A.3.1 Robotics**
+Integration of computation, electronics, and mechanics to create physical agents that can act in the world:
+- Kinematics and dynamics of manipulators and mobile robots
+- Perception (computer vision, sensor fusion)
+- Motion planning and control
+- Robotic manipulation
+- Application of systems engineering principles to robotics design and development
 
 ## Key Textbook Library
 

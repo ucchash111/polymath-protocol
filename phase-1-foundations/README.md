@@ -17,37 +17,59 @@ For each core subject, you'll study through **two complementary lenses**:
 
 This sequential two-pass approach ensures both practical utility and deep theoretical understanding.
 
+## Core Textbook Library
+
+The following table provides curated essential texts for Phase I, selected to facilitate the dual-learning approach:
+
+| Module | Primary Textbook (Application & Intuition) | Secondary Textbook (Theory & Rigor) | Role in Curriculum |
+|--------|---------------------------------------------|--------------------------------------|---------------------|
+| **1.1 Calculus** | Calculus by Gilbert Strang | Calculus by Michael Spivak | Strang: intuitive, application-rich introduction. Spivak: rigorous, proof-based foundation bridging to real analysis |
+| **1.2 Linear Algebra** | Introduction to Linear Algebra by Gilbert Strang | Linear Algebra Done Right by Sheldon Axler | Strang: geometric/computational understanding for engineering. Axler: abstract, proof-based perspective for advanced algorithms and quantum mechanics |
+| **1.3 Diff. Equations** | Elementary Differential Equations by Boyce & DiPrima | Ordinary Differential Equations by Vladimir Arnold | Boyce & DiPrima: comprehensive engineering standard. Arnold: geometric, theoretical perspective for dynamical systems |
+| **1.4 Prob. & Stats** | Probability and Statistics by DeGroot & Schervish | Probability Theory: The Logic of Science by E.T. Jaynes | DeGroot & Schervish: comprehensive calculus-based frequentist and Bayesian methods. Jaynes: deep, first-principles exploration of probability as logic |
+| **2.1 Classical Mech.** | Introduction to Classical Mechanics by David Morin | Classical Mechanics by John R. Taylor | Morin: problem-solving focus and clarity. Taylor: comprehensive treatment including Lagrangian and Hamiltonian mechanics |
+| **2.2 E&M** | Introduction to Electrodynamics by David J. Griffiths | The Feynman Lectures on Physics, Vol. II | Griffiths: universally acclaimed standard for clarity. Feynman: unparalleled physical intuition and deeper conceptual view |
+| **2.3 Thermo/Stat Mech** | An Introduction to Thermal Physics by Daniel V. Schroeder | Fundamentals of Statistical and Thermal Physics by Frederick Reif | Schroeder: modern, accessible introduction. Reif: classic, comprehensive text with deeper statistical foundation |
+| **2.4 Quantum Mech.** | Introduction to Quantum Mechanics by David J. Griffiths | Principles of Quantum Mechanics by R. Shankar | Griffiths: standard, accessible introduction. Shankar: mathematically sophisticated formulation for advanced topics |
+| **3.1 General Chem.** | Chemistry: The Central Science by Brown, LeMay, et al. | N/A | Single comprehensive text widely regarded as standard for clarity and breadth |
+| **3.2 Organic Chem.** | Organic Chemistry by Paula Yurkanis Bruice | Organic Chemistry by Clayden, Greeves, & Warren | Bruice: standard, clear, comprehensive. Clayden: mechanism and concept-based approach building deeper understanding |
+| **3.3 Molecular Bio.** | Molecular Biology of the Cell by Alberts et al. | N/A | The undisputed "bible" of molecular and cell biology with necessary depth and breadth |
+| **3.4 Genetics** | Genetics: From Genes to Genomes by Hartwell et al. | N/A | Comprehensive, modern text integrating classical Mendelian genetics with molecular genomics |
+
 ## Modules
 
 ### [Module 1: Foundational Mathematics](module-1-mathematics/)
 **Duration:** 8-12 months
 
-The complete mathematical toolkit for physics and engineering:
-- **1.1** Single Variable Calculus
-- **1.2** Multivariable Calculus  
-- **1.3** Linear Algebra
-- **1.4** Differential Equations (ODE & PDE)
-- **1.5** Probability & Statistics
-- **1.6** Discrete Mathematics
+Builds the complete mathematical toolkit required for all advanced physics and engineering disciplines, focusing on modeling, analyzing, and solving complex quantitative problems:
+
+- **1.1** Single Variable Calculus - Limits, derivatives, integrals, series, applications
+- **1.2** Multivariable Calculus - Vector calculus, multiple integrals, fundamental theorems  
+- **1.3** Linear Algebra - Matrix operations, vector spaces, eigenvalues, SVD
+- **1.4** Differential Equations - ODEs, PDEs, Laplace transforms, dynamical systems
+- **1.5** Probability & Statistics - Combinatorics, distributions, Bayesian inference, hypothesis testing
+- **1.6** Discrete Mathematics - Logic, proofs, set theory, graph theory, counting principles
 
 ### [Module 2: Foundational Physics](module-2-physics/)
 **Duration:** 10-14 months
 
-Master the fundamental laws governing energy, matter, space and time:
-- **2.1** Classical Mechanics
-- **2.2** Electricity & Magnetism
-- **2.3** Thermodynamics & Statistical Mechanics
-- **2.4** Quantum Mechanics
-- **2.5** Special & General Relativity
+Develops deep understanding of fundamental laws governing energy, matter, space and time, cultivating the ability to "think like a physicist":
+
+- **2.1** Classical Mechanics - Kinematics, Newton's laws, energy, Lagrangian/Hamiltonian formulations
+- **2.2** Electricity & Magnetism - Electrostatics, magnetostatics, Maxwell's equations, electromagnetic waves
+- **2.3** Thermodynamics & Statistical Mechanics - Laws of thermodynamics, entropy, kinetic theory, quantum statistics
+- **2.4** Quantum Mechanics - Wave functions, Schrödinger equation, operators, perturbation theory
+- **2.5** Special & General Relativity - Lorentz transformations, spacetime curvature, Einstein's field equations
 
 ### [Module 3: Foundational Chemistry & Biology](module-3-chemistry-biology/)
 **Duration:** 6-10 months
 
-Understanding matter transformation and living systems:
-- **3.1** General Chemistry
-- **3.2** Organic Chemistry
-- **3.3** Molecular & Cell Biology
-- **3.4** Genetics & Genomics
+Establishes understanding of principles governing matter transformation and living systems:
+
+- **3.1** General Chemistry - Atomic structure, bonding, stoichiometry, equilibrium, electrochemistry
+- **3.2** Organic Chemistry - Structure, stereochemistry, reaction mechanisms, synthesis strategies
+- **3.3** Molecular & Cell Biology - Protein function, DNA replication, gene expression, cell signaling
+- **3.4** Genetics & Genomics - Mendelian inheritance, molecular genetics, genomics, bioinformatics
 
 ## Study Path
 
