@@ -16,9 +16,28 @@ For each core subject, study through **two complementary lenses**:
 
 This sequential two-pass approach ensures both practical utility and deep theoretical understanding.
 
+## Core Textbook Library for Phase I
+
+The following table provides curated essential texts selected to facilitate the dual-learning approach:
+
+| Module | Primary Textbook (Application & Intuition) | Secondary Textbook (Theory & Rigor) | Role in Curriculum |
+|--------|---------------------------------------------|--------------------------------------|---------------------|
+| **1.1 Calculus** | Calculus by Gilbert Strang | Calculus by Michael Spivak | Strang provides an intuitive, application-rich introduction. Spivak provides the rigorous, proof-based foundation that bridges calculus to real analysis. |
+| **1.2 Linear Algebra** | Introduction to Linear Algebra by Gilbert Strang | Linear Algebra Done Right by Sheldon Axler | Strang builds a geometric and computational understanding essential for engineering. Axler rebuilds this understanding from a purely abstract, proof-based perspective crucial for advanced algorithms and quantum mechanics. |
+| **1.3 Diff. Equations** | Elementary Differential Equations and Boundary Value Problems by Boyce & DiPrima | Ordinary Differential Equations by Vladimir Arnold | Boyce & DiPrima is the comprehensive standard for engineers. Arnold's text provides a geometric, theoretical perspective essential for understanding dynamical systems. |
+| **1.4 Prob. & Stats** | Probability and Statistics by DeGroot & Schervish | Probability Theory: The Logic of Science by E.T. Jaynes | DeGroot & Schervish offers a comprehensive, calculus-based treatment of frequentist and Bayesian methods. Jaynes provides a deep, first-principles exploration of probability as a form of logic. |
+| **2.1 Classical Mech.** | Introduction to Classical Mechanics by David Morin | Classical Mechanics by John R. Taylor | Morin is lauded for its problem-solving focus and clarity. Taylor provides a more comprehensive and standard university-level treatment, including Lagrangian and Hamiltonian mechanics. |
+| **2.2 E&M** | Introduction to Electrodynamics by David J. Griffiths | The Feynman Lectures on Physics, Vol. II by Feynman, Leighton, Sands | Griffiths is the universally acclaimed standard undergraduate text for its clarity. Feynman provides unparalleled physical intuition and a deeper conceptual view. |
+| **2.3 Thermo/Stat Mech** | An Introduction to Thermal Physics by Daniel V. Schroeder | Fundamentals of Statistical and Thermal Physics by Frederick Reif | Schroeder is a modern, accessible, and highly praised introduction. Reif is the classic, comprehensive text that provides a deeper statistical foundation. |
+| **2.4 Quantum Mech.** | Introduction to Quantum Mechanics by David J. Griffiths | Principles of Quantum Mechanics by R. Shankar | Griffiths is the standard, accessible introduction. Shankar provides a more mathematically sophisticated and abstract formulation necessary for advanced topics. |
+| **3.1 General Chem.** | Chemistry: The Central Science by Brown, LeMay, et al. | N/A | A single, comprehensive text is sufficient for the foundational level required. This text is widely regarded as the standard for its clarity and breadth. |
+| **3.2 Organic Chem.** | Organic Chemistry by Paula Yurkanis Bruice | Organic Chemistry by Clayden, Greeves, & Warren | Bruice is a standard, clear, and comprehensive text. Clayden is praised for its mechanism- and concept-based approach, which builds deeper understanding beyond memorization. |
+| **3.3 Molecular Bio.** | Molecular Biology of the Cell by Alberts et al. | N/A | This is the undisputed "bible" of molecular and cell biology, providing the necessary depth and breadth for this entire module. |
+| **3.4 Genetics** | Genetics: From Genes to Genomes by Hartwell et al. | N/A | A comprehensive, modern text that integrates classical Mendelian genetics with molecular genomics, providing the necessary foundation for biotechnology. |
+
 ## Low-Friction Resource Strategy
 
-**Primary Strategy:** Use free online resources and single best textbook per subject to minimize friction while covering all learning goals.
+**Primary Strategy:** Use free online resources combined with curated textbooks to minimize friction while covering all learning goals with both practical and theoretical depth.
 
 ## Module 1: Foundational Mathematics (8-12 months)
 
