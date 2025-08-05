@@ -1,5 +1,5 @@
 # Phase I: Universal Foundations
-**Duration:** 24-36 months | **Prerequisites:** High school mathematics | **Commitment:** 20-30 hours per week
+**Duration:** 30-42 months | **Prerequisites:** High school mathematics | **Commitment:** 20-25 hours per week
 
 ## Overview
 
@@ -19,7 +19,7 @@ This sequential two-pass approach ensures both practical utility and deep theore
 |---------|----------|-------|---------------|
 | **[Module 1: Mathematics](module-1-mathematics/)** | 8-12 months | Complete mathematical toolkit | High school math |
 | **[Module 2: Physics](module-2-physics/)** | 10-14 months | Fundamental laws of nature | Module 1 |
-| **[Module 3: Chemistry & Biology](module-3-chemistry-biology/)** | 6-10 months | Matter and life principles | Modules 1-2 |
+| **[Module 3: Chemistry & Biology](module-3-chemistry-biology/)** | 12-16 months | Biotech innovation mastery | Modules 1-2 |
 
 ## Resource Strategy
 
@@ -67,10 +67,10 @@ This sequential two-pass approach ensures both practical utility and deep theore
 ## Progress Tracking
 
 ### Milestone Timeline
-- **Month 6:** Complete mathematics foundations
-- **Month 12:** Master physics fundamentals  
-- **Month 18:** Understand chemistry and biology
-- **Month 24:** Integration and review phase
+- **Month 8:** Complete mathematics foundations
+- **Month 20:** Master physics fundamentals  
+- **Month 36:** Complete advanced chemistry and biotech mastery
+- **Month 42:** Integration and capstone projects
 
 ### Success Metrics
 - ✅ Complete problem sets with >80% accuracy
