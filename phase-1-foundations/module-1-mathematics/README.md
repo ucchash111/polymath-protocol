@@ -38,113 +38,177 @@ This sequential two-pass approach ensures both practical utility and deep theore
 | **Discrete Math** | [MIT 6.042 Mathematics for CS](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/) | Video lectures and comprehensive notes | Course video lectures |
 
 ## 1.1-1.2 Single Variable & Multivariable Calculus
-**Duration:** 12-16 weeks
+**Duration:** 12-16 weeks | **Cognitive Load:** Medium | **Priority:** Essential
 
-### Overview
-Calculus is the starting point for describing change and accumulation, concepts fundamental to all physical sciences. Multivariable calculus extends this to three spatial dimensions (and beyond) necessary to describe fields (electromagnetic, gravitational) and fluid mechanics.
+### Minimal Friction Resource Table
 
-### Topics
-**Single Variable Calculus:**
-- Limits, continuity, derivatives (definition, rules, applications like optimization and related rates)
-- Integrals (definite, indefinite, Fundamental Theorem of Calculus)
-- Techniques of integration (by parts, trigonometric substitution, partial fractions)
-- Applications of integration (area, volume, arc length, work)
-- Infinite series and Taylor series
+| Resource Type | Primary Choice | Why This One | Access | Backup Option |
+|---------------|----------------|--------------|---------|---------------|
+| **Video Course** | [MIT 18.01 Single Variable](https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2005/) + [MIT 18.02 Multivariable](https://ocw.mit.edu/courses/18-02-multivariable-calculus-fall-2007/) | World-class lectures, complete problem sets, zero cost | Free | [Khan Academy Calculus](https://www.khanacademy.org/math/calculus-1) |
+| **Textbook** | [Calculus by Gilbert Strang](https://ocw.mit.edu/courses/res-18-001-calculus-fall-2023/) (Free PDF) | Written by the lecturer, perfectly aligned, visual approach | Free PDF | Stewart's Calculus (library) |
+| **Visual Intuition** | [3Blue1Brown Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) | Unmatched visual explanations, builds deep intuition | Free | Professor Leonard YouTube |
+| **Practice Problems** | MIT OCW Problem Sets | Directly aligned with lectures, solution keys available | Free | Khan Academy exercises |
+| **Quick Reference** | [Paul's Online Math Notes](https://tutorial.math.lamar.edu/Classes/CalcI/CalcI.aspx) | Clean formulas, quick lookups, examples | Free | Wolfram MathWorld |
 
-**Multivariable Calculus:**
-- Vectors and vector algebra
-- Partial derivatives, gradients, divergence, curl
-- Multiple integrals (double, triple)
-- Line integrals, surface integrals
-- Fundamental theorems of vector calculus: Green's Theorem, Stokes' Theorem, Divergence Theorem
+### Optimized Study Schedule
 
-### Study Plan
-- **Week 1-8:** Complete MIT 18.01 (single variable)
-- **Week 9-16:** Complete MIT 18.02 (multivariable)
-- Use Strang's book for additional problems and theory
-- Watch 3Blue1Brown for visual intuition
+| Weeks | Focus | Daily Time | Key Milestone |
+|-------|-------|------------|---------------|
+| **1-2** | Limits & Derivatives | 2-3 hours | Understand derivative concept |
+| **3-4** | Applications of Derivatives | 2-3 hours | Solve optimization problems |
+| **5-6** | Integration Basics | 2-3 hours | Master fundamental theorem |
+| **7-8** | Integration Techniques | 2-3 hours | Handle complex integrals |
+| **9-10** | Vectors & Partial Derivatives | 2-3 hours | Think in 3D space |
+| **11-12** | Multiple Integrals | 2-3 hours | Calculate volumes |
+| **13-14** | Vector Calculus | 3-4 hours | Understand field theory |
+| **15-16** | Review & Integration | 2-3 hours | Connect all concepts |
+
+### Core Topics Mastery Checklist
+
+**Single Variable (Weeks 1-8):**
+- ✅ Limits and continuity
+- ✅ Derivatives: definition, rules, applications
+- ✅ Optimization and related rates
+- ✅ Integration: FTC, techniques, applications
+- ✅ Series and Taylor expansions
+
+**Multivariable (Weeks 9-16):**
+- ✅ Vector algebra and geometry
+- ✅ Partial derivatives and gradients
+- ✅ Multiple integrals (double/triple)
+- ✅ Line and surface integrals
+- ✅ Vector theorems (Green's, Stokes', Divergence)
 
 ## 1.3 Linear Algebra
-**Duration:** 8-10 weeks
+**Duration:** 8-10 weeks | **Cognitive Load:** Medium-High | **Priority:** Critical
 
-### Overview
-Linear algebra is the language of data, machine learning, and quantum mechanics. Its mastery is arguably the single most important mathematical prerequisite for modern deep tech.
+### Minimal Friction Resource Table
 
-### Topics
-- Systems of linear equations, matrices and matrix operations
-- Determinants, vector spaces
-- The four fundamental subspaces (column space, nullspace, row space, left nullspace)
-- Eigenvalues and eigenvectors, diagonalization
-- Singular value decomposition (SVD)
+| Resource Type | Primary Choice | Why This One | Access | Backup Option |
+|---------------|----------------|--------------|---------|---------------|
+| **Video Course** | [MIT 18.06 Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/) | Gilbert Strang's legendary lectures, complete curriculum | Free | [Khan Academy Linear Algebra](https://www.khanacademy.org/math/linear-algebra) |
+| **Textbook** | [Introduction to Linear Algebra by Strang](https://math.mit.edu/~gs/linearalgebra/) (Free PDF) | Written by the lecturer, geometric approach, clear examples | Free PDF | Lay's Linear Algebra (library) |
+| **Visual Intuition** | [3Blue1Brown Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | Revolutionary visual approach, builds geometric intuition | Free | Khan Academy visuals |
+| **Practice Problems** | MIT 18.06 Problem Sets | Perfectly aligned, progressive difficulty, solutions available | Free | Strang textbook exercises |
+| **Computational Practice** | Python + NumPy | Hands-on matrix manipulation, real applications | Free | MATLAB Online |
 
-### Study Plan
-- Follow MIT 18.06 lecture sequence exactly
-- Complete all problem sets from the course
-- Use 3Blue1Brown for geometric intuition
-- Practice with Strang's textbook problems
+### Optimized Study Schedule
+
+| Weeks | Focus | Daily Time | Key Milestone |
+|-------|-------|------------|---------------|
+| **1-2** | Matrix Operations & Systems | 2-3 hours | Solve linear systems fluently |
+| **3-4** | Vector Spaces & Subspaces | 2-3 hours | Understand 4 fundamental subspaces |
+| **5-6** | Orthogonality & Projections | 2-3 hours | Master least squares |
+| **7-8** | Eigenvalues & Eigenvectors | 3-4 hours | Diagonalize matrices |
+| **9-10** | SVD & Applications | 3-4 hours | Apply to data science problems |
+
+### Core Topics Mastery Checklist
+- ✅ Matrix operations and linear systems
+- ✅ Vector spaces and the four fundamental subspaces
+- ✅ Orthogonality, projections, and least squares
+- ✅ Determinants and their geometric meaning
+- ✅ Eigenvalues, eigenvectors, and diagonalization
+- ✅ Singular Value Decomposition (SVD)
+- ✅ Applications to data science and machine learning
 
 ## 1.4 Differential Equations (Ordinary and Partial)
-**Duration:** 8-10 weeks
+**Duration:** 8-10 weeks | **Cognitive Load:** High | **Priority:** Essential
 
-### Overview
-The laws of nature are written as differential equations; this is the toolkit for modeling any system that evolves over time.
+### Minimal Friction Resource Table
 
-### Topics
-**Ordinary Differential Equations (ODEs):**
-- First-order equations (separable, linear)
-- Second-order linear equations with constant coefficients (homogeneous and nonhomogeneous)
-- Laplace transforms, Fourier series
-- Systems of linear equations, phase portraits
-- Introduction to nonlinear systems and stability
+| Resource Type | Primary Choice | Why This One | Access | Backup Option |
+|---------------|----------------|--------------|---------|---------------|
+| **Video Course** | [MIT 18.03 Differential Equations](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/) | Complete DE curriculum, excellent problem sets | Free | [Khan Academy Differential Equations](https://www.khanacademy.org/math/differential-equations) |
+| **Textbook** | Boyce & DiPrima Elementary Differential Equations | Engineering-focused, practical approach, clear examples | Library/Purchase | MIT 18.03 Notes (free) |
+| **Visual Tools** | [Desmos Graphing Calculator](https://www.desmos.com/calculator) | Interactive phase portraits, slope fields | Free | GeoGebra |
+| **Practice Problems** | MIT 18.03 Problem Sets | Comprehensive, graded difficulty, solutions available | Free | Khan Academy practice |
+| **Applications** | MATLAB/Python Simulations | Numerical solutions, real-world modeling | Free (Python) | Wolfram Alpha |
 
-**Partial Differential Equations (PDEs):**
-- Method of separation of variables for solving canonical equations of physics:
-  - Heat equation
-  - Wave equation  
-  - Laplace's equation
+### Optimized Study Schedule
 
-### Study Plan
-- Follow complete MIT 18.03 course structure
-- Focus heavily on problem-solving techniques
-- Build intuition through phase portraits and visualization
+| Weeks | Focus | Daily Time | Key Milestone |
+|-------|-------|------------|---------------|
+| **1-2** | First-Order ODEs | 2-3 hours | Solve separation of variables |
+| **3-4** | Second-Order Linear ODEs | 2-3 hours | Handle constant coefficients |
+| **5-6** | Laplace Transforms | 2-3 hours | Master transform techniques |
+| **7-8** | Systems & Phase Portraits | 3-4 hours | Analyze stability |
+| **9-10** | PDE Introduction | 3-4 hours | Separate variables for heat/wave equations |
+
+### Core Topics Mastery Checklist
+**ODEs:**
+- ✅ First-order: separable, linear, exact equations
+- ✅ Second-order: constant coefficients, variation of parameters
+- ✅ Laplace transforms and inverse transforms
+- ✅ Systems of ODEs and phase plane analysis
+- ✅ Stability analysis and equilibrium points
+
+**PDEs (Introduction):**
+- ✅ Heat equation and diffusion
+- ✅ Wave equation and vibrations
+- ✅ Laplace equation and steady states
+- ✅ Separation of variables technique
 
 ## 1.5 Probability and Statistics
-**Duration:** 6-8 weeks
+**Duration:** 6-8 weeks | **Cognitive Load:** Medium | **Priority:** Essential
 
-### Overview
-This module provides the framework for reasoning under uncertainty, which is essential for understanding data, machine learning, statistical mechanics, and quantum mechanics.
+### Minimal Friction Resource Table
 
-### Topics
-- Combinatorics, axioms of probability
-- Conditional probability and Bayes' theorem
-- Discrete and continuous random variables (including Bernoulli, Binomial, Poisson, Normal, and Exponential distributions)
-- Expectation, variance, covariance
-- Central Limit Theorem
-- Bayesian inference, hypothesis testing, confidence intervals
-- Linear regression
+| Resource Type | Primary Choice | Why This One | Access | Backup Option |
+|---------------|----------------|--------------|---------|---------------|
+| **Video Course** | [MIT 6.041 Probabilistic Systems](https://ocw.mit.edu/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/) | Rigorous treatment, excellent problem sets | Free | [Khan Academy Statistics](https://www.khanacademy.org/math/statistics-probability) |
+| **Textbook** | DeGroot & Schervish Probability and Statistics | Comprehensive, clear explanations, good exercises | Library/Purchase | MIT 6.041 Notes (free) |
+| **Interactive Practice** | [Khan Academy Probability](https://www.khanacademy.org/math/statistics-probability) | Interactive exercises, immediate feedback | Free | Brilliant.org |
+| **Computational Tools** | Python (NumPy, SciPy, Matplotlib) | Real data analysis, visualization | Free | R Statistical Software |
+| **Applications** | Kaggle Learn Courses | Real-world applications, datasets | Free | Coursera Statistics |
 
-### Study Plan
-- Complete MIT 6.041 video lectures and recitations
-- Use Khan Academy for additional practice
-- Focus on problem-solving and applications
+### Optimized Study Schedule
+
+| Weeks | Focus | Daily Time | Key Milestone |
+|-------|-------|------------|---------------|
+| **1-2** | Basic Probability & Counting | 2 hours | Master combinatorics |
+| **3-4** | Random Variables & Distributions | 2-3 hours | Understand key distributions |
+| **5-6** | Expectation & Limit Theorems | 2-3 hours | Apply Central Limit Theorem |
+| **7-8** | Statistical Inference | 2-3 hours | Perform hypothesis testing |
+
+### Core Topics Mastery Checklist
+- ✅ Combinatorics and basic probability
+- ✅ Conditional probability and Bayes' theorem
+- ✅ Discrete distributions (Bernoulli, Binomial, Poisson)
+- ✅ Continuous distributions (Normal, Exponential, Uniform)
+- ✅ Expectation, variance, and covariance
+- ✅ Central Limit Theorem and Law of Large Numbers
+- ✅ Confidence intervals and hypothesis testing
+- ✅ Linear regression and correlation
 
 ## 1.6 Discrete Mathematics
-**Duration:** 4-6 weeks
+**Duration:** 4-6 weeks | **Cognitive Load:** Medium | **Priority:** Important
 
-### Overview
-This provides the mathematical foundation of computer science, algorithms, and information theory.
+### Minimal Friction Resource Table
 
-### Topics
-- Formal logic, proof techniques (especially induction and well-ordering)
-- Set theory, relations
-- Elementary graph theory
-- Counting principles (permutations and combinations)
-- Integer congruences
+| Resource Type | Primary Choice | Why This One | Access | Backup Option |
+|---------------|----------------|--------------|---------|---------------|
+| **Video Course** | [MIT 6.042 Mathematics for CS](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/) | CS-focused, proof techniques, complete curriculum | Free | [Khan Academy Algebra Basics](https://www.khanacademy.org/math/algebra-basics) |
+| **Textbook** | MIT 6.042 Course Notes | Free, comprehensive, proof-focused | Free PDF | Rosen Discrete Mathematics |
+| **Proof Practice** | [Book of Proof by Hammack](https://www.people.vcu.edu/~rhammack/BookOfProof/) | Free, excellent introduction to proofs | Free PDF | How to Prove It (Velleman) |
+| **Interactive Practice** | [Brilliant Discrete Math](https://brilliant.org/discrete-math/) | Interactive problems, immediate feedback | Subscription | MIT Problem Sets |
+| **Applications** | LeetCode/HackerRank | Algorithm problems, CS applications | Free tier | Project Euler |
 
-### Study Plan
-- Follow MIT 6.042 lecture sequence
-- Practice proof-writing extensively
-- Focus on applications to computer science
+### Optimized Study Schedule
+
+| Weeks | Focus | Daily Time | Key Milestone |
+|-------|-------|------------|---------------|
+| **1-2** | Logic & Proof Techniques | 1-2 hours | Write basic proofs |
+| **3-4** | Counting & Combinatorics | 1-2 hours | Solve counting problems |
+| **5-6** | Graph Theory & Relations | 1-2 hours | Understand basic graph algorithms |
+
+### Core Topics Mastery Checklist
+- ✅ Propositional logic and proof techniques
+- ✅ Mathematical induction and strong induction
+- ✅ Set theory and relations
+- ✅ Functions and bijections
+- ✅ Elementary graph theory
+- ✅ Counting: permutations and combinations
+- ✅ Number theory and modular arithmetic
 
 ## Assessment and Progress Tracking
 

@@ -33,146 +33,176 @@ Physics is fundamentally about understanding the underlying patterns and princip
 | **Relativity** | MIT 8.033 Relativity | Various MIT OCW relativity courses | Online lectures |
 
 ## 2.1 Classical Mechanics
-**Duration:** 10-12 weeks
+**Duration:** 10-12 weeks | **Cognitive Load:** Medium-High | **Priority:** Critical
 
-### Overview
-This is the foundation for understanding all motion, from planetary orbits to the dynamics of robotic systems. Classical mechanics provides the conceptual and mathematical framework that underlies all other areas of physics.
+### Minimal Friction Resource Table
 
-### Topics
-- **Fundamentals:** Kinematics, Newton's Laws, work and energy, momentum and collisions
-- **Rotational Motion:** Angular velocity, angular momentum, moment of inertia, torque
-- **Gravitation:** Universal gravitation, Kepler's Laws, orbital mechanics
-- **Oscillations:** Simple harmonic motion, damped and driven oscillators, resonance
-- **Fluid Mechanics:** Hydrostatics, Bernoulli's equation, viscosity
-- **Advanced Formulations:** Lagrangian and Hamiltonian mechanics (essential for quantum mechanics)
+| Resource Type | Primary Choice | Why This One | Access | Backup Option |
+|---------------|----------------|--------------|---------|---------------|
+| **Video Course** | [MIT 8.01 Classical Mechanics](https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/) | World-class physics instruction, complete problem sets | Free | [Khan Academy Physics](https://www.khanacademy.org/science/physics) |
+| **Textbook** | Introduction to Classical Mechanics by David Morin | Problem-solving focused, excellent examples, humor | Purchase | MIT 8.01 Notes (free) |
+| **Visual Simulations** | [PhET Physics Simulations](https://phet.colorado.edu/en/simulations/category/physics) | Interactive physics concepts, visual learning | Free | Wolfram Demonstrations |
+| **Practice Problems** | MIT 8.01 Problem Sets + Morin Problems | Progressive difficulty, complete solutions | Free + Purchase | Halliday & Resnick |
+| **Applications** | [NASA Educational Resources](https://www.nasa.gov/audience/foreducators/) | Real-world orbital mechanics, space applications | Free | SpaceX technical papers |
 
-### Study Plan
-- Complete all MIT 8.01 lectures and problem sessions
-- Use Morin's book for challenging problems and deeper insight
-- Focus on problem-solving techniques and physical intuition
-- Practice deriving results from first principles
+### Optimized Study Schedule
 
-### Key Applications
-- Spacecraft trajectories and orbital mechanics
-- Robotic system dynamics and control
-- Structural engineering and vibration analysis
-- Foundation for all other physics disciplines
+| Weeks | Focus | Daily Time | Key Milestone |
+|-------|-------|------------|---------------|
+| **1-2** | Kinematics & Newton's Laws | 2-3 hours | Solve motion problems fluently |
+| **3-4** | Work, Energy & Momentum | 2-3 hours | Apply conservation laws |
+| **5-6** | Rotational Motion | 2-3 hours | Handle rotating systems |
+| **7-8** | Oscillations & Waves | 2-3 hours | Analyze harmonic motion |
+| **9-10** | Gravitation & Orbits | 3-4 hours | Understand planetary motion |
+| **11-12** | Advanced Topics & Review | 3-4 hours | Apply Lagrangian mechanics |
+
+### Core Topics Mastery Checklist
+- ✅ Kinematics in 1D, 2D, and 3D
+- ✅ Newton's Laws and force analysis
+- ✅ Work-energy theorem and conservation
+- ✅ Momentum and collision analysis
+- ✅ Rotational kinematics and dynamics
+- ✅ Simple harmonic motion and oscillators
+- ✅ Universal gravitation and orbital mechanics
+- ✅ Introduction to Lagrangian mechanics
 
 ## 2.2 Electricity and Magnetism
-**Duration:** 12-14 weeks
+**Duration:** 12-14 weeks | **Cognitive Load:** High | **Priority:** Critical
 
-### Overview
-This module covers the basis for all electronics, communications, optics, and power systems. E&M provides the foundation for understanding how electric and magnetic fields interact and propagate, culminating in electromagnetic waves.
+### Minimal Friction Resource Table
 
-### Topics
-- **Electrostatics:** Coulomb's Law, Gauss's Law, electric potential, conductors, dielectrics
-- **Magnetostatics:** Biot-Savart Law, Ampere's Law, magnetic materials
-- **Electrodynamics:** Faraday's Law of induction, displacement current
-- **Maxwell's Equations:** The complete theory of electromagnetism
-- **Electromagnetic Waves:** Wave propagation, polarization, reflection, refraction
-- **Applications:** Transmission lines, waveguides, antennas
+| Resource Type | Primary Choice | Why This One | Access | Backup Option |
+|---------------|----------------|--------------|---------|---------------|
+| **Video Course** | [MIT 8.02 Physics II: E&M](https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/) | Comprehensive E&M curriculum, excellent demonstrations | Free | [Khan Academy Electricity & Magnetism](https://www.khanacademy.org/science/physics/electric-charge-electric-force-and-voltage) |
+| **Textbook** | Introduction to Electrodynamics by Griffiths | Gold standard for E&M, clear explanations, good problems | Purchase | [Feynman Lectures Vol. II](https://www.feynmanlectures.caltech.edu/) (free) |
+| **Conceptual Insight** | [Feynman Lectures on Physics Vol. II](https://www.feynmanlectures.caltech.edu/) | Unparalleled physical intuition and insight | Free | MIT 8.02 lecture notes |
+| **Visual Tools** | [PhET E&M Simulations](https://phet.colorado.edu/en/simulations/category/physics/electricity-magnets-and-circuits) | Interactive field visualizations | Free | Wolfram E&M demos |
+| **Problem Practice** | Griffiths Problems + MIT Problem Sets | Progressive difficulty, complete solutions available | Purchase + Free | Purcell E&M problems |
 
-### Study Plan
-- Complete MIT 8.02 with all problem sets
-- Read corresponding Feynman chapters for deeper conceptual insight
-- Focus on understanding Maxwell's equations both mathematically and conceptually
-- Practice solving boundary value problems
+### Optimized Study Schedule
 
-### Key Applications
-- Electronic circuits and devices
-- Wireless communications and radar
-- Optical systems and photonics
-- Power generation and transmission
-- Electromagnetic compatibility
+| Weeks | Focus | Daily Time | Key Milestone |
+|-------|-------|------------|---------------|
+| **1-3** | Electrostatics | 2-3 hours | Master Gauss's Law |
+| **4-6** | Electric Potential & Capacitance | 2-3 hours | Solve boundary value problems |
+| **7-9** | Magnetostatics | 2-3 hours | Apply Ampere's Law |
+| **10-12** | Electromagnetic Induction | 3-4 hours | Understand Faraday's Law |
+| **13-14** | Maxwell Equations & EM Waves | 3-4 hours | Derive wave equation |
+
+### Core Topics Mastery Checklist
+- ✅ Coulomb's Law and electric fields
+- ✅ Gauss's Law and applications
+- ✅ Electric potential and capacitance
+- ✅ Current, resistance, and DC circuits
+- ✅ Magnetic fields and Lorentz force
+- ✅ Biot-Savart and Ampere's Laws
+- ✅ Electromagnetic induction and Faraday's Law
+- ✅ Maxwell's equations and electromagnetic waves
 
 ## 2.3 Thermodynamics and Statistical Mechanics
-**Duration:** 8-10 weeks
+**Duration:** 8-10 weeks | **Cognitive Load:** High | **Priority:** Essential
 
-### Overview
-This module describes energy and entropy at both macroscopic and microscopic levels, crucial for materials science, chemistry, and understanding the limits of energy conversion. It bridges the gap between microscopic atomic behavior and macroscopic observable quantities.
+### Minimal Friction Resource Table
 
-### Topics
-- **Classical Thermodynamics:** Laws of thermodynamics, entropy, temperature, heat engines
-- **Free Energy:** Gibbs and Helmholtz free energy, phase transformations
-- **Kinetic Theory:** Molecular velocities, mean free path, transport phenomena
-- **Statistical Mechanics:** Boltzmann statistics, partition function, ensemble theory
-- **Quantum Statistics:** Fermi-Dirac and Bose-Einstein distributions
-- **Applications:** Phase diagrams, chemical equilibrium, thermal properties of materials
+| Resource Type | Primary Choice | Why This One | Access | Backup Option |
+|---------------|----------------|--------------|---------|---------------|
+| **Video Course** | [MIT 8.044 Statistical Physics I](https://ocw.mit.edu/courses/8-044-statistical-physics-i-spring-2013/) | Rigorous statistical mechanics foundation | Free | [Khan Academy Thermodynamics](https://www.khanacademy.org/science/physics/thermodynamics) |
+| **Textbook** | An Introduction to Thermal Physics by Schroeder | Modern, accessible, connects macro and micro | Purchase | MIT 8.044 Notes (free) |
+| **Classical Thermo** | [Khan Academy Thermodynamics](https://www.khanacademy.org/science/physics/thermodynamics) | Visual introduction to basic concepts | Free | Cengel Thermodynamics |
+| **Simulations** | [PhET Gas Properties](https://phet.colorado.edu/en/simulation/gas-properties) | Kinetic theory visualization | Free | Wolfram thermal demos |
+| **Applications** | NIST Thermodynamic Data | Real material properties, phase diagrams | Free | Engineering toolbox |
 
-### Study Plan
-- Start with Khan Academy for basic thermodynamics concepts
-- Progress to MIT 8.044 for statistical mechanics foundations
-- Focus on connecting microscopic and macroscopic viewpoints
-- Practice solving both classical and statistical problems
+### Optimized Study Schedule
 
-### Key Applications
-- Energy systems and heat engines
-- Materials science and phase transitions
-- Chemical reaction equilibria
-- Semiconductor physics and electronics
-- Foundations for quantum field theory
+| Weeks | Focus | Daily Time | Key Milestone |
+|-------|-------|------------|---------------|
+| **1-2** | Laws of Thermodynamics | 2-3 hours | Apply first and second laws |
+| **3-4** | Kinetic Theory | 2-3 hours | Derive ideal gas law |
+| **5-6** | Statistical Mechanics Basics | 2-3 hours | Understand Boltzmann distribution |
+| **7-8** | Partition Functions | 3-4 hours | Calculate thermodynamic properties |
+| **9-10** | Quantum Statistics | 3-4 hours | Apply Fermi-Dirac and Bose-Einstein |
+
+### Core Topics Mastery Checklist
+- ✅ Four laws of thermodynamics
+- ✅ Heat engines and refrigerators
+- ✅ Entropy and the second law
+- ✅ Kinetic theory of gases
+- ✅ Maxwell-Boltzmann distribution
+- ✅ Partition functions and statistical mechanics
+- ✅ Phase transitions and critical phenomena
+- ✅ Quantum statistics (Fermi-Dirac, Bose-Einstein)
 
 ## 2.4 Quantum Mechanics
-**Duration:** 12-14 weeks
+**Duration:** 12-14 weeks | **Cognitive Load:** Very High | **Priority:** Critical
 
-### Overview
-This is the fundamental theory of matter at the atomic and subatomic levels and a non-negotiable prerequisite for understanding semiconductors, lasers, quantum computing, and modern materials science. Quantum mechanics revolutionizes our understanding of reality at the smallest scales.
+### Minimal Friction Resource Table
 
-### Topics
-- **Foundations:** Wave function, Schrödinger equation, statistical interpretation
-- **Mathematical Formalism:** Hilbert space, operators, commutation relations
-- **One-Dimensional Systems:** Infinite square well, harmonic oscillator, tunneling
-- **Three-Dimensional Systems:** Hydrogen atom, orbital angular momentum
-- **Spin:** Intrinsic angular momentum, Pauli matrices, spin-orbit coupling
-- **Identical Particles:** Fermions, bosons, Pauli exclusion principle
-- **Advanced Topics:** Perturbation theory, quantum statistics, measurement theory
+| Resource Type | Primary Choice | Why This One | Access | Backup Option |
+|---------------|----------------|--------------|---------|---------------|
+| **Video Course** | [MIT 8.04 Quantum Physics I](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2013/) + [8.05 II](https://ocw.mit.edu/courses/8-05-quantum-physics-ii-fall-2013/) | Complete quantum curriculum, excellent progression | Free | [Stanford Quantum Mechanics](https://www.youtube.com/playlist?list=PLUl4u3cNGP60cspQn3N9dYRPiyVHlClJ) |
+| **Textbook** | Introduction to Quantum Mechanics by Griffiths | Clear, accessible, standard undergraduate text | Purchase | MIT 8.04 Notes (free) |
+| **Advanced Text** | Principles of Quantum Mechanics by Shankar | More mathematical rigor, comprehensive treatment | Purchase | Sakurai Modern QM |
+| **Visual Tools** | [PhET Quantum Simulations](https://phet.colorado.edu/en/simulations/category/physics/quantum-phenomena) | Wave functions, tunneling, atomic orbitals | Free | Quantum mechanics visualizations |
+| **Practice** | Griffiths Problems + MIT Problem Sets | Progressive difficulty, complete solutions | Purchase + Free | Shankar problems |
 
-### Study Plan
-- Complete MIT 8.04 thoroughly before advancing to 8.05
-- Focus on developing intuition for quantum phenomena
-- Practice solving the Schrödinger equation for various potential systems
-- Connect mathematical formalism to physical interpretations
+### Optimized Study Schedule
 
-### Key Applications
-- Semiconductor devices and electronics
-- Lasers and optical devices
-- Quantum computing and information
-- Modern materials science
-- Chemical bonding and molecular structure
+| Weeks | Focus | Daily Time | Key Milestone |
+|-------|-------|------------|---------------|
+| **1-2** | Wave-Particle Duality | 2-3 hours | Understand quantum weirdness |
+| **3-4** | Schrödinger Equation | 3-4 hours | Solve 1D potentials |
+| **5-6** | Harmonic Oscillator & Tunneling | 3-4 hours | Master key 1D systems |
+| **7-8** | 3D Systems & Hydrogen Atom | 3-4 hours | Understand atomic structure |
+| **9-10** | Angular Momentum & Spin | 3-4 hours | Handle quantum angular momentum |
+| **11-12** | Identical Particles | 3-4 hours | Apply Pauli exclusion |
+| **13-14** | Perturbation Theory | 4 hours | Handle complex systems |
+
+### Core Topics Mastery Checklist
+- ✅ Wave function and probability interpretation
+- ✅ Time-dependent and time-independent Schrödinger equations
+- ✅ Infinite square well and harmonic oscillator
+- ✅ Quantum tunneling and barrier penetration
+- ✅ Hydrogen atom and atomic orbitals
+- ✅ Orbital angular momentum and spherical harmonics
+- ✅ Spin-1/2 particles and Pauli matrices
+- ✅ Identical particles and exchange symmetry
+- ✅ Time-independent perturbation theory
 
 ## 2.5 Special and General Relativity
-**Duration:** 4-6 weeks
+**Duration:** 4-6 weeks | **Cognitive Load:** High | **Priority:** Important
 
-### Overview
-This provides the ultimate framework for understanding spacetime and gravitation, essential for astrophysics, cosmology, and high-energy physics. Relativity fundamentally changes our concepts of space, time, and gravity.
+### Minimal Friction Resource Table
 
-### Topics
+| Resource Type | Primary Choice | Why This One | Access | Backup Option |
+|---------------|----------------|--------------|---------|---------------|
+| **Video Course** | [MIT 8.033 Relativity](https://ocw.mit.edu/courses/8-033-relativity-fall-2003/) | Comprehensive relativity course | Free | [Stanford Relativity Lectures](https://www.youtube.com/playlist?list=PLpGHT1n4-mAvcXwzOIz3dHnGZaQP1LEib) |
+| **Textbook** | Spacetime and Geometry by Sean Carroll | Modern approach, clear explanations | Purchase | Einstein's original papers (free) |
+| **Conceptual** | [MinutePhysics Relativity](https://www.youtube.com/playlist?list=PLZHQObOWTQDMVQcT3414TlsA5AfTgL5C1) | Excellent visual explanations | Free | Feynman Lectures Vol. I Ch. 15-17 |
+| **Simulations** | [Relativity Visualizations](https://www.spacetimetravel.org/) | Special relativity effects visualization | Free | MIT relativity applets |
+| **Applications** | GPS and Modern Physics Papers | Real-world relativistic effects | Free | LIGO gravitational waves |
+
+### Optimized Study Schedule
+
+| Weeks | Focus | Daily Time | Key Milestone |
+|-------|-------|------------|---------------|
+| **1-2** | Special Relativity Basics | 2-3 hours | Understand time dilation |
+| **3-4** | 4-Vectors & Relativistic Mechanics | 2-3 hours | Handle relativistic dynamics |
+| **5-6** | General Relativity Concepts | 2-3 hours | Grasp curved spacetime |
+
+### Core Topics Mastery Checklist
 **Special Relativity:**
-- Postulates of special relativity
-- Lorentz transformations, time dilation, length contraction
-- Relativistic kinematics and dynamics
-- 4-vectors and spacetime geometry
-- Energy-momentum relation
+- ✅ Postulates and Lorentz transformations
+- ✅ Time dilation and length contraction
+- ✅ Relativistic velocity addition
+- ✅ 4-vectors and spacetime intervals
+- ✅ Energy-momentum relation (E=mc²)
 
-**General Relativity (Introduction):**
-- Principle of equivalence
-- Curvature of spacetime
-- Einstein's field equations (conceptual understanding)
-- Schwarzschild solution and black holes
-- Modern cosmology and the expanding universe
-
-### Study Plan
-- Start with special relativity foundations
-- Use MIT OCW relativity courses for structured learning
-- Focus on conceptual understanding over mathematical detail for GR
-- Connect to modern physics and cosmology applications
-
-### Key Applications
-- GPS satellite systems and precision timing
-- Particle accelerators and high-energy physics
-- Astrophysics and cosmology
-- Gravitational wave detection
-- Foundation for modern field theories
+**General Relativity (Conceptual):**
+- ✅ Equivalence principle
+- ✅ Curved spacetime and geodesics
+- ✅ Einstein field equations (conceptual)
+- ✅ Black holes and event horizons
+- ✅ Cosmology and expanding universe
 
 ## Assessment and Progress Tracking
 
