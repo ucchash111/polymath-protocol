@@ -72,7 +72,7 @@ This module provides comprehensive preparation for leading apex-level biotechnol
 | **Video Course** | [Khan Academy Organic Chemistry](https://www.khanacademy.org/science/organic-chemistry) | Mechanism-focused, visual, step-by-step | Free | [MIT 5.12 Organic Chemistry I](https://ocw.mit.edu/courses/5-12-organic-chemistry-i-spring-2005/) |
 | **Textbook** | Organic Chemistry by Paula Bruice | Clear mechanisms, biological relevance | Purchase | Klein Organic Chemistry (library) |
 | **Mechanism Practice** | [Khan Academy Mechanism Problems](https://www.khanacademy.org/science/organic-chemistry) | Interactive arrow-pushing practice | Free | Organic Chemistry Portal |
-| **Structure Drawing** | [ChemSketch](https://www.acdlabs.com/resources/free-chemistry-software-apps/chemsketch/) or [ChemDraw](https://perkinelmerinformatics.com/products/research/chemdraw) | Professional structure drawing | Free/Purchase | Hand drawing practice |
+| **Structure Drawing** | [ChemSketch](https://www.acdlabs.com/resources/free-chemistry-software-apps/chemsketch-freeware/) or [ChemDraw](https://perkinelmerinformatics.com/products/research/chemdraw) | Professional structure drawing | Free/Purchase | Hand drawing practice |
 | **3D Visualization** | [ChimeraX](https://www.cgl.ucsf.edu/chimerax/) or [PyMOL](https://pymol.org/) | 3D molecular visualization | Free | Jmol browser applet |
 
 ### Optimized Study Schedule

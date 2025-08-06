@@ -175,7 +175,7 @@ Physics is fundamentally about understanding the underlying patterns and princip
 
 | Resource Type | Primary Choice | Why This One | Access | Backup Option |
 |---------------|----------------|--------------|---------|---------------|
-| **Video Course** | [MIT 8.033 Relativity](https://ocw.mit.edu/courses/8-033-relativity-fall-2003/) | Comprehensive relativity course | Free | [Stanford Relativity Lectures](https://www.youtube.com/playlist?list=PLpGHT1n4-mAvcXwzOIz3dHnGZaQP1LEib) |
+| **Video Course** | [MIT 8.033 Relativity](https://ocw.mit.edu/courses/8-033-introduction-to-relativity-and-spacetime-physics-fall-2024/) | Comprehensive relativity course | Free | [Stanford Relativity Lectures](https://www.youtube.com/playlist?list=PLpGHT1n4-mAvcXwzOIz3dHnGZaQP1LEib) |
 | **Textbook** | Spacetime and Geometry by Sean Carroll | Modern approach, clear explanations | Purchase | Einstein's original papers (free) |
 | **Conceptual** | [MinutePhysics Relativity](https://www.youtube.com/playlist?list=PLZHQObOWTQDMVQcT3414TlsA5AfTgL5C1) | Excellent visual explanations | Free | Feynman Lectures Vol. I Ch. 15-17 |
 | **Simulations** | [Relativity Visualizations](https://www.spacetimetravel.org/) | Special relativity effects visualization | Free | MIT relativity applets |

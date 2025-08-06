@@ -189,8 +189,8 @@ This sequential two-pass approach ensures both practical utility and deep theore
 |---------------|----------------|--------------|---------|---------------|
 | **Video Course** | [MIT 6.042 Mathematics for CS](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/) | CS-focused, proof techniques, complete curriculum | Free | [Khan Academy Algebra Basics](https://www.khanacademy.org/math/algebra-basics) |
 | **Textbook** | MIT 6.042 Course Notes | Free, comprehensive, proof-focused | Free PDF | Rosen Discrete Mathematics |
-| **Proof Practice** | [Book of Proof by Hammack](https://www.people.vcu.edu/~rhammack/BookOfProof/) | Free, excellent introduction to proofs | Free PDF | How to Prove It (Velleman) |
-| **Interactive Practice** | [Brilliant Discrete Math](https://brilliant.org/discrete-math/) | Interactive problems, immediate feedback | Subscription | MIT Problem Sets |
+| **Proof Practice** | [Book of Proof by Hammack](https://richardhammack.github.io/BookOfProof/) | Free, excellent introduction to proofs | Free PDF | How to Prove It (Velleman) |
+| **Interactive Practice** | [Brilliant Math Courses](https://brilliant.org/courses/) | Interactive problems, immediate feedback | Subscription | MIT Problem Sets |
 | **Applications** | LeetCode/HackerRank | Algorithm problems, CS applications | Free tier | Project Euler |
 
 ### Optimized Study Schedule
